@@ -64,4 +64,4 @@ Contributions are welcome! If you have suggestions for improvements or find a bu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. *(<- Make sure you add a LICENSE file, typically containing the MIT License text)*
+This project is licensed under the MIT License.
